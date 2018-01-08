@@ -1,0 +1,22 @@
+{
+  "name": "build-manifest-webpack-plugin",
+  "version": "0.1.0",
+  "description": "auto generate manifest under build folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daweilv/build-manifest-webpack-plugin.git"
+  },
+  "keywords": [
+    "manifest"
+  ],
+  "author": "David Lv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daweilv/build-manifest-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/daweilv/build-manifest-webpack-plugin#readme"
+}
